@@ -1,5 +1,9 @@
 # YouTube Clone Project
 
+## Deployment URL
+
+- https://you-tube-ji.vercel.app
+
 ## Project Overview
 
 The YouTube Clone Project is a web application designed to mimic the core functionalities of YouTube, the world's leading video-sharing platform. This project allows users to browse, search, and view videos, providing a user experience similar to the real YouTube platform. It serves as an excellent educational exercise for understanding how video streaming applications work and demonstrates the integration of various web technologies and APIs.
